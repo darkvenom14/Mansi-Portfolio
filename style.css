@@ -10,7 +10,7 @@ body {
   color: #ededed;
 }
 section {
-    background: url("bg4-picaai.png") no-repeat;
+    background: url("/image/bg4-picaai.png") no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -77,7 +77,7 @@ section {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url("bg4-picaai.png") no-repeat;
+  background: url("/image/bg4-picaai.png") no-repeat;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -175,7 +175,7 @@ section {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 1.5rem;
-    background: url("bg4-picaai.png") no-repeat;
+    background: url("/image/bg4-picaai.png") no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -293,7 +293,6 @@ section {
 
 .main_text{
     padding-top: 80px;
-    /* margin-top: 10px; */
 }
 .main_text h2 {
     font-size: 60px;
@@ -522,10 +521,6 @@ section {
   padding: 10px;
   border-radius: 0.5rem;
 }
-
-
-
-
 
 
 @keyframes slideRight {
